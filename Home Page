@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+
+<head>
+  <title>Amber Oestreich</title>
+  <link rel="stylesheet"
+     type="text/css"
+     href="resume_style.css"/>
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+  <header class="head">
+    <h1 class="head">Amber Oestreich</h1>
+    <h3 class="head">MBA Student at St Catherine University</h3>
+  </header>
+
+  <nav>
+    <ul class="nav">
+      <li class="nav"><a href="Resume_Home.html">Home</a>
+      <li class="nav"><a href="Education.html">Education</a>
+      <li class="nav"><a href="Experience.html">Experience</a>
+      <li class="nav"><a href="Licenses_Certif.html">Licenses & Certifications</a>
+      <li class="nav"><a href="Portfolio.html">Portfolio</a>
+      <li class="nav"><a href="Resume_Contact.html">Contact</a>
+    </ul>
+  </nav>
+
+  <aside>
+    <img class="headshot" src="headshot.jpg" width="250px"/>
+    <h1>Bucket List</h1>
+      <p>Travel to every continent</p>
+      <p>Get married</p>
+      <p>Obtain my MBA</p>
+      <p>Become fluent in Spanish</p>
+      <p>Buy a house</p>
+      <p><s>Design a webpage</s></p>
+      <p>Travel to all 50 states</p>
+      <p>Go Skydiving</p>
+      <p>Visit Machu Picchu</p>
+      <p>Visit Easter Island</p>
+      <p>Climb a mountain</p>
+      <p>Make a difference</p>
+  </aside>
+
+  <article>
+    <h1 class="home">About Me</h1>
+      <p class="home">Having recently taken on a leadership role at IKEA, I have put a lot of thought into what makes a leader and how I can develop my skills to be the best leader i can for my team.  Although I previously felt that the leadership experience I held before my time with IKEA was adequate for my development, I have been proven wrong.  Through taking countless leadership assessments, I have been given insight into where I currently am as a leader, what my strengths and weaknesses are, and where I should focus my energy for future improvements.</p>
+    <h3>Who I am as a Leader</h3>
+      <p class="home">As a leader, I currently utilize a mixture of autocratic and participative leadership styles.  I prefer to have control over my work situations and tend to find myself micromanaging others at times.  I do try to take input from others before making decisions, and I complete the same daily tasks as my subordinates at work, which is how the participative style fits in.  I found the Fascination Advantage assessment to be particularly interesting because it listed my archetype as <i>The Victor</i>.  Within the description of this archetype, it states that the world would see me as a strong leader who sets big goals and as results-oriented.  I definitely relate to this because I am consistently told the goals that I set are sometimes lofty and unachievable; however, that is what I found drives me towards achievement.  I am challenged to achieve the unachievable.</p>
+     <h3>Strengths</h3>
+       <p class="home">The Gallup CliftonStrengths assessment allowed me to realize that my top five strengths are intellection, restorative, achiever, futuristic, and input.  These strengths fall into the executing and strategic thinking domains, which leads me to conclude that I am an analytical individual.  I take value in data and use it to achieve my organizations objectives.  I also was able to assess my strengths using the Insights assessment, which confirmed what the CliftonStrengths had found.  With the Insights assessment, I discovered that I lead with a mixture of red and blue, this means that I tend to be task-focused and adept at solving problems.  It also showed me that my strengths include a strive for accuracy and having an effective way of implementing new processes within my team.</p>
+    <h3>Weaknesses</h3>
+        <p class="home">Although my strengths have allowed me to progress as a leader, my strive for perfection makes it difficult for me to delegate tasks to others.  I would consider this my greatest weakness, which likely stems from the difficulty that I have trusting others to do a good job.  This would be something that I should focus some of my energy on improving, as it would allow me to improve the overall productivity and morale of my team.  Another weakness that I will focus on improving would be that I often come across as argumentative and difficult to approach.  I will work on improving this by making a conscious effort to connect with others and control my emotions.  This will include working on my emotional intelligence skills and taking the time to think about others input before reacting.</p>
+     <h3>Conclusion</h3>
+        <p  class="home">Overall, the assessments have given me a better understanding of who I am as a leader, how I can utilize my strengths to become a better leader, and what weaknesses I should focus on improving.  By placing my focus on a singular task at a time for improvement, I will become a more effective leader while not sacrificing my current strengths.  As a way to re-assess myself over time, I will plan to re-take the Northouse assessments over time and compare the results to visualize where I have been successful in making changes.  I am confident that with my ambition and dedication, I will one day become the leader that I aspire to become.</p>
+       
+    <section>
+    <h1 class="home">Fun Facts</h1>
+      <ul class="home">
+        <li>This webpage was created entirely by me!</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </section>
+  </article>
+
+  <footer>
+
+  </footer>
+
+</body>
+
+</html>
